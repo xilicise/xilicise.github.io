@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xilicise.github.io/sitemap.html.gz
+Sitemap: https://xilicise.github.io/app/sitemap.html.gz
+Sitemap: https://xilicise.github.io/assets/sitemap.html.gz
+Sitemap: https://xilicise.github.io/css/sitemap.html.gz
+Sitemap: https://xilicise.github.io/includes/sitemap.html.gz
+Sitemap: https://xilicise.github.io/item/sitemap.html.gz
+Sitemap: https://xilicise.github.io/src/sitemap.html.gz
